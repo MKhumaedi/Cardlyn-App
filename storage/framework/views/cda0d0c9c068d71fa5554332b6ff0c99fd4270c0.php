@@ -1,0 +1,1 @@
+<?php /**PATH /home/maystudi/cardlyn.com/resources/views/vendor/livewire-tables/stubs/modals.blade.php ENDPATH**/ ?>

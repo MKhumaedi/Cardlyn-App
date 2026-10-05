@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Kartunama Pro</title>
+		<description>Platform pembuat halaman web kartu nama digital vCard premium dan bio link profesional. Buat kartu nama pribadi atau brand bisnis dengan banyak informasi dan link di bio. Bagikan melalui url atau QR code di berbagai media sosial, email, forum, dan lainnya.</description>
+		<image>
+		  <title>Kartunama Pro - Kartu Nama Digital dan Bio Link Terbaik</title>
+		  <url>/assets/img/logo/kartunama-32.png</url>
+		  <link>/</link>
+		</image>
+		<category>Bisnis &amp; Industri,Perangkat Lunak,Software Komputer,Pengompilasi &amp; Software Pemrograman,Software Aplikasi Kantor,Software Bisnis &amp; Produktivitas,Software Edukasi,Software Perangkat Genggam &amp; PDA,Media,Ebook,Kartu Undangan,Kartu Nama,Template Dokumen,Karya Seni Digital,Stok Foto &amp; Rekaman Video,Layanan,Bisnis,Teknologi,Pemrograman,Aplikasi,Mikrokontroler,Desain</category>
+		<link>/</link>
+		<atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="/" rel="alternate" type="text/html"/>
+		<pubDate>Fri, 20 Jan 2023 06:30:12 +0700</pubDate>
+		<lastBuildDate>Fri, 20 Jan 2023 06:30:12 +0700</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<managingEditor>support@kartunama.id (Kartunama.ID)</managingEditor>
+		<webMaster>support@seosecret.id (SEOSecret.ID)</webMaster>
+		<language>id-ID</language>
+		<copyright>Copyright 2023 401XD Group</copyright>
+		<generator>401XD Group</generator>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="/assets/img/logo/kartunama-32.png"/>
+		<itunes:keywords>eCommerce,Services,Business,Technology,Programming,Applications,Microcontrollers,Design</itunes:keywords>
+		<itunes:summary>Platform pembuat halaman web kartu nama digital vCard premium dan bio link profesional. Buat kartu nama pribadi atau brand bisnis dengan banyak informasi dan link di bio. Bagikan melalui url atau QR code di berbagai media sosial, email, forum, dan lainnya.</itunes:summary>
+		<itunes:subtitle>Kartunama Pro - Kartu Nama Digital dan Bio Link Terbaik</itunes:subtitle>
+		<itunes:category text="Technology"/>
+		<itunes:category text="Business"/>
+		<itunes:category text="Arts">
+		  <itunes:category text="Performing Arts"/>
+		  <itunes:category text="Visual Arts"/>
+		</itunes:category>
+		<itunes:author>Kartunama.ID</itunes:author>
+		<itunes:owner>
+		  <itunes:email>support@kartunama.id</itunes:email>
+		  <itunes:name>Kartunama.ID</itunes:name>
+		</itunes:owner>
+		<item>
+			<guid isPermaLink="false">3357469621</guid>
+			<title>Syarat dan Ketentuan</title>
+			<link>/terms-conditions</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Platform pembuat halaman web kartu nama digital vCard premium dan bio link profesional. Buat kartu nama pribadi atau brand bisnis dengan banyak informasi dan link di bio. Bagikan melalui url atau QR code di berbagai media sosial, email, forum, dan lainnya.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:47 +0300</pubDate>
+			<enclosure url="/assets/img/kartunama/kartunamapro.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1315957700</guid>
+			<title>Kebijakan Privasi</title>
+			<link>/privacy-policy</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Platform pembuat halaman web kartu nama digital vCard premium dan bio link profesional. Buat kartu nama pribadi atau brand bisnis dengan banyak informasi dan link di bio. Bagikan melalui url atau QR code di berbagai media sosial, email, forum, dan lainnya.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:48 +0300</pubDate>
+			<enclosure url="/assets/img/kartunama/kartunamapro.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">4023387982</guid>
+			<title>Daftar - Kartunama Pro</title>
+			<link>/register</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Platform pembuat halaman web kartu nama digital vCard premium dan bio link profesional. Buat kartu nama pribadi atau brand bisnis dengan banyak informasi dan link di bio. Bagikan melalui url atau QR code di berbagai media sosial, email, forum, dan lainnya.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:50 +0300</pubDate>
+			<enclosure url="/assets/img/kartunama/kartunamapro.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3024450853</guid>
+			<title>Khushi Patel - Freelancer UI/UX Designer</title>
+			<link>/vcard10</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Khushi Patel - Freelancer UI/UX Designer. Kartu nama digital dan bio link Khushi Patel. Berikut informasi lengkap Khushi Patel, alamat, kontak, sosial media dan website official Khushi Patel di Kartunama Pro - Kartu Nama Digital dan Bio Link.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:51 +0300</pubDate>
+			<enclosure url="/assets/img/vcard10/vcard10-profile.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">586425716</guid>
+			<title>Maya Anggraini - Freelancer Web Designer</title>
+			<link>/vcard9</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Maya Anggraini - Freelancer Web Designer. Kartu nama digital dan bio link Maya Anggraini. Berikut informasi lengkap Maya Anggraini, alamat, kontak, sosial media dan website official Maya Anggraini di Kartunama Pro - Kartu Nama Digital dan Bio Link.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:52 +0300</pubDate>
+			<enclosure url="/assets/img/vcard9/vcard9-profile.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">116500155</guid>
+			<title>Kishan Savaliya - Freelance Web Designer</title>
+			<link>/vcard1</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Kishan Savaliya - Freelance Web Designer. Kartu nama digital dan bio link Kishan Savaliya. Berikut informasi lengkap Kishan Savaliya, alamat, kontak, sosial media dan website official Kishan Savaliya di Kartunama Pro - Kartu Nama Digital dan Bio Link.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:53 +0300</pubDate>
+			<enclosure url="/assets/img/vcard1/vcard1-profile.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">2029466908</guid>
+			<title>Riki Setiawan - Freelancer UI/UX Designer</title>
+			<link>/vcard8</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Riki Setiawan - Freelancer UI/UX Designer. Kartu nama digital dan bio link Riki Setiawan. Berikut informasi lengkap Riki Setiawan, alamat, kontak, sosial media dan website official Riki Setiawan di Kartunama Pro - Kartu Nama Digital dan Bio Link.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:55 +0300</pubDate>
+			<enclosure url="/assets/img/vcard7/vcard8-profile.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">4084557292</guid>
+			<title>Pallavi Hegde - Freelancer UI/UX Designer</title>
+			<link>/vcard7</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Pallavi Hegde - Freelancer UI/UX Designer. Kartu nama digital dan bio link Pallavi Hegde. Berikut informasi lengkap Pallavi Hegde, alamat, kontak, sosial media dan website official Pallavi Hegde di Kartunama Pro - Kartu Nama Digital dan Bio Link.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:56 +0300</pubDate>
+			<enclosure url="/assets/img/vcard7/profilegirl.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1539563733</guid>
+			<title>Luccy Morries - Full Stack Web Developer</title>
+			<link>/vcard6</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Luccy Morries - Full Stack Web Developer. Kartu nama digital dan bio link Luccy Morries. Berikut informasi lengkap Luccy Morries, alamat, kontak, sosial media dan website official Luccy Morries di Kartunama Pro - Kartu Nama Digital dan Bio Link.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:57 +0300</pubDate>
+			<enclosure url="/assets/img/vcard6/profile.jpg" type="image/jpeg" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3852211434</guid>
+			<title>Sally Watson - Freelance Web Designer</title>
+			<link>/vcard5</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>vCards</category>
+			<description>Sally Watson - Freelance Web Designer. Kartu nama digital dan bio link Sally Watson. Berikut informasi lengkap Sally Watson, alamat, kontak, sosial media dan website official Sally Watson di Kartunama Pro - Kartu Nama Digital dan Bio Link.</description>
+			<pubDate>Sat, 24 Dec 2022 19:03:59 +0300</pubDate>
+			<enclosure url="/assets/img/vcard5/profile.png" type="image/png" length="0" />
+		</item>
+	</channel>
+</rss>

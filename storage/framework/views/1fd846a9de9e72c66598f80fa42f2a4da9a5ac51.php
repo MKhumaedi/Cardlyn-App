@@ -1,0 +1,2 @@
+<a class="btn btn-primary ms-auto" data-bs-toggle="modal" data-bs-target="#addCountryModal" id="newCountryBtn"><?php echo e(__('messages.country.new_country')); ?></a>
+<?php /**PATH /home/maystudi/cardlyn.com/resources/views/sadmin/countries/add-button.blade.php ENDPATH**/ ?>

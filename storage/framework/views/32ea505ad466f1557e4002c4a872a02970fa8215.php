@@ -1,0 +1,2 @@
+<a href="javascript:void(0)" type="button" class="btn btn-primary ms-auto" id="addLanguage" data-target="#addLanguageModal"><?php echo e(__('messages.languages.new_language')); ?></a>
+<?php /**PATH /home/maystudi/cardlyn.com/resources/views/sadmin/languages/add-button.blade.php ENDPATH**/ ?>

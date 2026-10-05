@@ -1,0 +1,1 @@
+<?php /**PATH /home/maystudi/cardlyn.com/resources/views/vendor/livewire-tables/bootstrap-5/includes/sorting-pills.blade.php ENDPATH**/ ?>

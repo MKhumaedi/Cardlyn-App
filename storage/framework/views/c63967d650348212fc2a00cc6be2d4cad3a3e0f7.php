@@ -1,0 +1,2 @@
+<a type="button" class="btn btn-primary ms-auto" id="addTestimonialBtn"><?php echo e(__('messages.vcard.add_testimonial')); ?></a>
+<?php /**PATH /home/maystudi/cardlyn.com/resources/views/sadmin/testimonial/add-button.blade.php ENDPATH**/ ?>
