@@ -1,0 +1,9 @@
+/vendor
+.env
+.env.bak
+node_modules/
+public/hot
+public/storage
+storage/*.key
+/.phpunit.cache
+xdebug.log
